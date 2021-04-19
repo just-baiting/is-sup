@@ -41,6 +41,7 @@
     }
   ],
   "devDependencies": {
+    "@just-baiting/eslint-config-typescript": "^0.0.2",
     "@just-baiting/prettier-config": "^0.0.1",
     "@size-limit/preset-small-lib": "^4.10.2",
     "husky": "^6.0.0",

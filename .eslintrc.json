@@ -1,0 +1,3 @@
+{
+  "extends": ["@just-baiting/eslint-config-typescript"]
+}
